@@ -8,6 +8,7 @@ Typescript
 
 Toutes les notes de cours seront disponibles sur un github (qui va être créé)
 
+https://github.com/webdevproformation/typescript-h3-dec-2023
 
 Typescript = Javascript + mots clé en plus 
 

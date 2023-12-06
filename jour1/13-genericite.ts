@@ -51,3 +51,5 @@ const heading = document.querySelector(".br") as HTMLHeadElement
 heading.innerHTML
 
 // rdv 15h20 bon café @ toute suite !!!
+
+

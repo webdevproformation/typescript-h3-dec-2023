@@ -30,10 +30,10 @@ first3([{id : 1},{id : 2}]); // déterminer le type des valeurs stockées dans l
 
 
 function calcul <A,B> ( a : A , b : B ) : Array<A|B>{
-    return [a , b]
+    return [a , b]; 
 }
 
-calcul(1 , 2)
+calcul(1 , 2); // variable dans vos types 
 calcul(1 , [])
 calcul("" , true) ; // laisser la main à type script pour déterminer le type des variables
 

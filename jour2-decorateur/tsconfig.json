@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "removeComments": true,
+        "strict" : true ,
+        "target" : "es5",
+        "noImplicitAny": false ,
+        "experimentalDecorators": true
+    }
+  }

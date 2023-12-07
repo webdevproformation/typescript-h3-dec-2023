@@ -1,0 +1,1 @@
+npx -p typescript tsc 06-lib.js --declaration --allowJs --emitDeclarationOnly --outDir types

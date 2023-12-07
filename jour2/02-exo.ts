@@ -24,3 +24,7 @@ console.log(resultat);
 // npx ts-node 02-exo.ts 
 // pas de création de fichier .js intermédiaire 
 // directement réussir à exécuter le fichier .ts 
+
+// Webpack // Snowpack // Vite 
+// Parcel => Bundler 
+// Bundle 

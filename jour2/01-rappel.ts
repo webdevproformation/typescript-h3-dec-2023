@@ -143,5 +143,24 @@ class Calcul2{
 }
 
 
+// cas pratique 
+
+// créer un nouveau fichier 02-exo.ts 
+// bloquer le scope du fichier via export{}
+// créer une interface nommée Coordonnee, elle dispose de deux propriétés :
+// x type chiffre
+// y type chiffre 
+
+// créer une fonction nommée drawLigne
+// Elle dispose de deux arguments
+// origin type Coordonnee
+// final type Coordonnee
+
+// return la phrase suivante :
+// "la ligne a x y comme point de départ et x y comme point final"
+
+// transformer ce fichier ts en fichier js et l'exécuter dans un shell tsc 
+
+
 
 

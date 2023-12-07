@@ -25,3 +25,7 @@ class Exo{
         private option3  : boolean 
     ){}
 }
+
+// voila pour l'introduction sur Typescript !! 
+// intro sur Angular 
+// rdv dans 1 heure => 13h30 bon appétit !!! 

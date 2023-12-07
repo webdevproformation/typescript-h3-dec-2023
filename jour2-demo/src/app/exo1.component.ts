@@ -37,4 +37,12 @@ export class Exo1 {
 // <p *ngFor="let item if tableau">{item}</p>
 // <p *ngIf="condition">afficher ici </p>
 
-// créer 
+// créer le composant Exo2
+// dans ce composant vous avez 2 propriétés 
+// liste d'étudiants
+// [  {id : 1 , nom : "Alain" , isAdmin : true} , {id : 2 , nom : "Benoit" , , isAdmin : false} ]
+
+// afficher l'ensemble des étudiants dans la vue du composant 
+
+// afficher dans la vue l'ensemble des étudiants qui sont admin 
+// npm i 

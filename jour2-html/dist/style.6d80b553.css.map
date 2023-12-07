@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\style.scss"],"names":[],"mappings":"AAQA;EACI,OATK;EAGL;EACA;EACA","file":"style.6d80b553.css","sourceRoot":"..","sourcesContent":["$color : red;\r\n\r\n@mixin bordure {\r\n    border: 2px solid black ;\r\n    padding : 1em 2em ;\r\n    border-radius: 2rem;\r\n}\r\n\r\nh1{\r\n    color : $color ; \r\n    @include bordure\r\n}"]}

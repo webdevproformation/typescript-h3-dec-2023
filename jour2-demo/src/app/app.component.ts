@@ -8,6 +8,7 @@ import { Exo1 } from "./exo1.component"
 import { Exo2 } from './exo2.component';
 import { QuatriemeComponent } from "./quatrieme/quatrieme.component";
 import { Exo3Component } from "./exo3/exo3.component"
+import { TwoWayComponent } from './two-way/two-way.component';
 
 @Component({
   selector: 'app-root', // associer au composant une balise html => index.html 
@@ -16,7 +17,7 @@ import { Exo3Component } from "./exo3/exo3.component"
       RouterOutlet , 
       Premier , 
       Deuxieme , Exo1 , Exo2 ,
-    QuatriemeComponent , Exo3Component ],
+    QuatriemeComponent , Exo3Component , TwoWayComponent ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 

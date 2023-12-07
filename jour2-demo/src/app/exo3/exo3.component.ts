@@ -14,3 +14,5 @@ export class Exo3Component {
     this.show = !this.show ;
   }
 }
+
+// ng g c two-way

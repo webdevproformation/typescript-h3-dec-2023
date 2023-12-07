@@ -64,3 +64,6 @@ assets : image / pdf / fichiers / logo / font
 => et la class vont être associées à des décorateurs
 => décorateur permet de greffer des comportements en plus à vos composants 
 
+ouvrir un deuxieme terminal
+cd jour2-demo
+ng generate component quatrieme

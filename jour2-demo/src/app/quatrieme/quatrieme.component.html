@@ -1,0 +1,11 @@
+<div>
+    <img src="{{ urlImage }}" alt="">
+    <img [src]="urlImage" alt="">
+    <!-- proprerty binding -->
+    <img [src]="urlImage2" [alt]="titre">
+    <p>{{ titre }}</p>
+    <p [innerText]="titre" ></p>
+    <p [innerHTML]="titreAvecHTML"></p>
+    <input type="text" [value]="nb">
+    <button (click)="onClick()" >Action</button>
+</div>

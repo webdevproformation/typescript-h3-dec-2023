@@ -9,7 +9,6 @@ type Etudiant = {
 
 type ListeEtudiantType = Array<Etudiant>; 
 
-
 @Component({
     standalone: true,
     imports : [ CommonModule ],
@@ -36,16 +35,19 @@ type ListeEtudiantType = Array<Etudiant>;
     selector : "exo2"
 })
 export class Exo2{
-
     public etudiants : ListeEtudiantType = [  
         {id : 1 , nom : "Alain" , isAdmin : true} , 
         {id : 2 , nom : "Benoit" , isAdmin : false} 
     ]
-
     public etudiantAdmin() : ListeEtudiantType{
         return this.etudiants.filter(function(e){
             return e.isAdmin === true 
         })
     }
-
 }
+
+// directive disponible dans Angular 
+
+// lancer un deuxieme terminal 
+
+// ng generate component quatrieme

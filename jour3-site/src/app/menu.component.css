@@ -1,0 +1,6 @@
+:host{
+    margin: 0;
+    padding: 0  ;
+}
+/* le sélecteur :host il permet de mettre en forme la balise qui contient notre composant
+menu */

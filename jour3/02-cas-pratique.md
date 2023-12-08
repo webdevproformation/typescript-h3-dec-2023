@@ -20,3 +20,15 @@ ng serve -o
 // installé bootstrap 
 // ajouter la librairie directement dans les sources 
 // de notre projet 
+
+
+// créer un nouveau composant 
+// menu 
+// dans ce composant vous allez utiliser le module Bootstrap 
+// https://getbootstrap.com/docs/5.3/components/navbar/#how-it-works
+// 3 liens 
+// Accueil
+// Articles 
+// Contact 
+
+// rdv dans 15 min @ toute suite !! 

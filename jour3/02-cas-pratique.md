@@ -36,7 +36,19 @@ ng serve -o
 
 // cas pratique :
 // afficher dans le composant Accueil 
-image factice de votre choix | texte avec 200 mots factices 
+image factice de votre choix | texte avec 200 mots factices
+
+// cas pratique :
+// mettre en forme la page Articles 
+// afficher une liste d'articles // tableau qui contient 5 articles 
+// chaque article dispose de titre de votre choix / image / id / contenu 
 
 
+// cas pratique :
+// mettre en forme le composant Contact 
+// dans ce composant vous allez insérer un formulaire avec 3 champs 
+
+// email
+// input sujet 
+// textarea
 

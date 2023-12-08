@@ -10,5 +10,4 @@ import {  FormsModule } from "@angular/forms"
 })
 export class Exo4Component {
   public pays : string = "";
-
 }

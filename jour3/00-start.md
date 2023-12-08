@@ -5,4 +5,10 @@
 
 Toutes les notes de cours seront disponibles sur un github (qui va être créé)
 
-https://github.com/webdevproformation/typescript-h3-dec-2023
+https://github.com/webdevproformation/typescript-h3-dec-2023 
+
+# Angular 
+
+https://formation.webdevpro.net/angular
+login :  angular
+password :  microsoft

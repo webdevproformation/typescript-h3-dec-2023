@@ -32,3 +32,11 @@ ng serve -o
 // Contact 
 
 // rdv dans 15 min @ toute suite !! 
+
+
+// cas pratique :
+// afficher dans le composant Accueil 
+image factice de votre choix | texte avec 200 mots factices 
+
+
+

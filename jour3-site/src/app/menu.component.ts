@@ -1,4 +1,5 @@
 import { Component } from "@angular/core";
+import { Router } from "@angular/router"
 
 @Component({
     selector : "menu",
@@ -8,13 +9,13 @@ import { Component } from "@angular/core";
             <span class="navbar-brand">{{ siteName }}</span>
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Accueil</a>
+                    <a class="nav-link" href="/">Accueil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Articles</a>
+                    <a class="nav-link" href="/articles">Articles</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="/contact-us">Contact</a>
                 </li>
             </ul>
         </nav>
@@ -25,4 +26,7 @@ import { Component } from "@angular/core";
 })
 export class Menu{
     public siteName : string = "Site avec Angular"
+    constructor(private router: Router) {
+        // ...
+    }
 }
